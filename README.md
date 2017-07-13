@@ -2,8 +2,7 @@
 Projet de traceur suspendu #Polargraph #DrawBot
 
 ## 1/ Kezako ?
-<img src="https://dougkanter.files.wordpress.com/2011/11/vp1.jpg" alt="" style="width:100%" /><br />
-<div style="text-align:right;color:#DDD;font-size:0.8em;">Crédit image : <a href="https://dougkanter.wordpress.com/2011/11/09/itp-icm-pcomp-final-project-concept/" target="_blank">Doug Kanter</a></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hQ8BQ0GsLiE" frameborder="0" allowfullscreen></iframe>
 
 <br /><br />Le Polargraph (ou Traceur suspendu) est un robot qui dessine à votre place (un DrawBot).<br />
 Il fonctionne à l'aide de 2 moteurs pas-à-pas reliés en triangulation avec un outil scripteur (un bloc-stylo quoi...) qui, en faisant évoluer la longueur des câbles qui les relient, permet de tracer sur une feuille.<br />
@@ -66,10 +65,12 @@ J'ai essayé plusieurs versions, toutes fonctionnent sur l'ordi, semblent lancer
 * Quelques photos des traceurs verticaux et horizontaux de <a href="https://www.flickr.com/photos/91789568@N00/" target="_blank">Kongorilla</a>
 
 ## 7/ Pour faire avancer le schmilblick
-D'abord inspiré des travaux du Makelangelo, j'ai tendance à croire qu'il faut repartir du début. Heureux de constater que le projet du Collectif IDLV (de Rennes) <a href="http://www.instructables.com/id/TIPIBOT-Le-Robot-Qui-Dessine/" target="_blank">le TipiBot, est désormais richement documenté sur Instructables</a>, je pense reprendre sur cette base !
+D'abord inspiré des travaux du Makelangelo, j'ai tendance à croire qu'il faut repartir du début. Heureux de constater que le projet du Collectif "Indiens Dans La Ville" (IDLV, artistes rennais) <a href="http://www.instructables.com/id/TIPIBOT-Le-Robot-Qui-Dessine/" target="_blank">le TipiBot, est désormais richement documenté sur Instructables</a>, je pense reprendre sur cette base !
 
-* Impression 3D : à voir s'il est nécessaire que je réimprime...
-* Hardware : Arduino UNO => MEGA 2560 
+<iframe src="https://player.vimeo.com/video/126355254" width="640" height="360" frameborder="0"></iframe>
+
+* Impression 3D : à voir s'il est nécessaire que je réimprime... ?
+* Hardware : Arduino UNO => MEGA 2560 ?
 * Firmware : <a href="https://github.com/euphy/polargraph_server_polarshield" target="_blank">Polargraphe server polarshield</a> d'Euphy
 * Software : <a href="https://github.com/RickMcConney/PenPlotter" target="_blank">PenPlotter</a> de Rick McConney
 
@@ -77,5 +78,6 @@ D'abord inspiré des travaux du Makelangelo, j'ai tendance à croire qu'il faut 
 ## 8/ Contact
 * Auteur : Guillaume | Twitter <a href="http://twitter.com/grouan" target="_blank">@grouan</a> | Mastodon <a href="http://mamot.fr/@grouan" target="_blank">@grouan</a><br />
 * Lieu de fabrication : <a href="http://www.lafabriqueduloch.org" target="_blank">La Fabrique du Loch</a> (Auray)<br />
-* Date : juillet 2016 (en stand by)
+* Date : 2016 (en stand by)
+* <a href="https://www.lafabriqueduloch.org/forums/topic/traceur-suspendu-drawbot/" target="_blank">Post Forum La Fabrique du Loch</a>
 
