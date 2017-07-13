@@ -46,7 +46,8 @@ Les pièces que j'ai imprimées sont toutes tirées du projet de <a href="https:
 
 ### # Firmware
 J'ai remixé le travail de <a href="https://twitter.com/aggrav8d" target="_blank">Dan ROYER</a> : <a href="http://www.makelangelo.com" target="_blank">Makelangelo</a>.<br />
-Le <a href="https://github.com/MarginallyClever/Makelangelo-firmware" target="_blank">Firmware Makelangelo est téléchargeable</a> sur le Github de sont créateur.
+Le <a href="https://github.com/MarginallyClever/Makelangelo-firmware" target="_blank">Firmware Makelangelo est téléchargeable</a> sur le Github de sont créateur.<br />
+Le Firmware est bien compilé par la carte Arduino UNO, pas de pb. Malheureusement, rien ne se lance quand j'envoie une image, la machine ne tourne pas... J'ai même changé de Motor Shield (de la v.2 à la v.1) pour m'en assurer...
 
 ### # Interface logicielle
 Idem : j'ai récupéré le software de <a href="https://www.marginallyclever.com/product/makelangelo-software/" target="_blank">Makelangelo</a> (téléchargeable gratuitement en indiquant "CAD $0"). Bien sûr cela n'empêche par de soutenir ses projets en faisant une donation :)<br/>
