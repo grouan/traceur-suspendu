@@ -1,6 +1,5 @@
 # traceur-suspendu
 Projet de traceur suspendu #Polargraph #DrawBot by @grouan
-<img src="https://raw.githubusercontent.com/grouan/traceur-suspendu/master/qrcode_projet_traceur_suspendu.png" alt="" style="float:right;" />
 
 ## 1/ Kezako ?
 En vidéo ici https://www.youtube.com/embed/hQ8BQ0GsLiE ou ici https://www.youtube.com/watch?v=VufMgHvaoG0 ou encore là https://www.youtube.com/watch?v=2TiCZmJC9aU ...
@@ -16,7 +15,6 @@ J'ai en effet rencontré une série de problèmes techniques, que j'ai tenté de
 
 ## 3/ Contribuez !
 Si le projet vous intéresse et que vous souhaitez contribuer : contactez-moi ou retrouvons-nous @ La Fabrique du Loch !
-Scannez le QRCode ci-dessus si vous lisez ce document sur papier...
 
 ## 4/ Comment ça (devrait) marche(r) ?
 
