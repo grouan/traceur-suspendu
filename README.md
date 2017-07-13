@@ -1,10 +1,10 @@
 # traceur-suspendu
-Projet de traceur suspendu #Polargraph #DrawBot
+Projet de traceur suspendu #Polargraph #DrawBot by @grouan
 
 ## 1/ Kezako ?
 En vidéo ici https://www.youtube.com/embed/hQ8BQ0GsLiE ou ici https://www.youtube.com/watch?v=VufMgHvaoG0 ou encore là https://www.youtube.com/watch?v=2TiCZmJC9aU ...
 
-<br /><br />Le Polargraph (ou Traceur suspendu) est un robot qui dessine à votre place (un DrawBot).<br />
+Le Polargraph (ou Traceur suspendu) est un robot qui dessine à votre place (un DrawBot).<br />
 Il fonctionne à l'aide de 2 moteurs pas-à-pas reliés en triangulation avec un outil scripteur (un bloc-stylo quoi...) qui, en faisant évoluer la longueur des câbles qui les relient, permet de tracer sur une feuille.<br />
 Le dispositif se tient verticalement et peut varier en dimensions : de la planche de travail à l'installation monumentale !
 
@@ -57,7 +57,6 @@ J'ai essayé plusieurs versions, toutes fonctionnent sur l'ordi, semblent lancer
 * Le précurseur : <a href="http://juerglehni.com/works/hektor/" target="_blank">Hektor</a>, traceur-suspendu pour grapher (Street Art)
 * <a href="https://tinkerlog.com/2011/09/02/der-kritzler/" target="_blank">Der Kritzler</a> [Tinkerlog] : un DrawBot sur une vitre
 * <a href="http://www.polargraph.co.uk/" target="_blank">PolargraphSD</a> [Sandy Noble]
-* 
 * <a href="http://www.hackerspace-ffm.de/wiki/index.php?title=Drawbot@MfK" target="_blank">DrawBot@MFK</a>
 * <a href="http://idlv.co/tipibot/" target="_blank">TipiBot</a> [Collectif IDLV / Rennes]
 * Projet de <a href="http://makezine.com/2015/07/20/build-drawbot-two-cd-drives-raspberry-pi/" target="_blank">DrawBot avec 2 lecteur CD et 1 RaspberryPi</a>
