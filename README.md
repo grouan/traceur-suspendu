@@ -72,6 +72,7 @@ Le TipiBot en vidéo => https://player.vimeo.com/video/126355254
 * Firmware : <a href="https://github.com/euphy/polargraph_server_polarshield" target="_blank">Polargraphe server polarshield</a> d'Euphy
 * Software : <a href="https://github.com/RickMcConney/PenPlotter" target="_blank">PenPlotter</a> de Rick McConney
 
+Variation possible sur le même principe : utiliser un XY Plotter => https://www.youtube.com/watch?v=5492ZjivAQ0 (merci Gilbert pour la vidéo !)
 
 ## 8/ Contact
 * Auteur : Guillaume | Twitter <a href="http://twitter.com/grouan" target="_blank">@grouan</a> | Mastodon <a href="http://mamot.fr/@grouan" target="_blank">@grouan</a><br />
