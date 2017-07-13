@@ -21,6 +21,6 @@ J'ai en effet rencontré une série de problèmes techniques, que j'ai tenté de
 
 ## Contact
 Auteur : Guillaume | Twitter <a href="http://twitter.com/grouan" target="_blank">@grouan</a> | Mastodon <a href="http://mamot.fr/@grouan" target="_blank">@grouan</a><br />
-Lieu de fabrication : La Fabrique du Loch<br />
+Lieu de fabrication : <a href="https://www.lafabriqueduloch.org" target"_blank">La Fabrique du Loch</a> (FabLab d'Auray | BZH)<br />
 Date : juillet 2016 (en stand by)
 
