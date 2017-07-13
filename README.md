@@ -2,21 +2,20 @@
 Projet de traceur suspendu #Polargraph #DrawBot
 
 ## 1/ Kezako ?
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hQ8BQ0GsLiE" frameborder="0" allowfullscreen></iframe>
+En vidéo ici https://www.youtube.com/embed/hQ8BQ0GsLiE ou ici https://www.youtube.com/watch?v=VufMgHvaoG0 ou encore là https://www.youtube.com/watch?v=2TiCZmJC9aU ...
 
 <br /><br />Le Polargraph (ou Traceur suspendu) est un robot qui dessine à votre place (un DrawBot).<br />
 Il fonctionne à l'aide de 2 moteurs pas-à-pas reliés en triangulation avec un outil scripteur (un bloc-stylo quoi...) qui, en faisant évoluer la longueur des câbles qui les relient, permet de tracer sur une feuille.<br />
 Le dispositif se tient verticalement et peut varier en dimensions : de la planche de travail à l'installation monumentale !
 
 ## 2/ État des lieux
-J'ai commencé ce projet en juillet 2016 et, après une phase de vortex, j'ai du le laisser de côté... alors que le projet me passionne véritablement ^^<br />
-J'ai en effet rencontré une série de problèmes techniques, que j'ai tenté de relever, en partie avec la communauté, mais je n'ai pas été capable de résoudre cet imbroglio seul :/<br />
+J'ai commencé ce projet en juillet 2016 et, après une phase de vortex (vous savez, cet espèce de vide sidéral...), j'ai du le laisser de côté... alors que suis totalement passionné par les robot dessinateurs (les DrawBots) de tous poils ^^<br />
+J'ai en effet rencontré une série de problèmes techniques, que j'ai tenté de relever, en partie avec la communauté, mais je n'ai pas été capable de résoudre cet imbroglio dans sa globalité./<br />
 <b>Je pense que le plus simple serait de repartir de zéro, de remettre à plat chaque étape pour avoir une vision globale cohérente et trouver les meilleurs solutions, plutôt que de tenter de mettre des rustines...</b>
 
 ## 3/ Contribuez !
 Si le projet vous intéresse et que vous souhaitez contribuer : contactez-moi ou retrouvons-nous @ La Fabrique du Loch !
 Scannez le QRCode ci-dessous si tu lis ce document sur papier :
-
 
 ## 4/ Comment ça (devrait) marche(r) ?
 
