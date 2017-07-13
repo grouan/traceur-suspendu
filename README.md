@@ -64,7 +64,7 @@ J'ai essayé plusieurs versions, toutes fonctionnent sur l'ordi, semblent lancer
 ## 7/ Pour faire avancer le schmilblick
 D'abord inspiré des travaux du Makelangelo, j'ai tendance à croire qu'il faut repartir du début. Heureux de constater que le projet du Collectif "Indiens Dans La Ville" (IDLV, artistes rennais) <a href="http://www.instructables.com/id/TIPIBOT-Le-Robot-Qui-Dessine/" target="_blank">le TipiBot, est désormais richement documenté sur Instructables</a>, je pense reprendre sur cette base !
 
-<iframe src="https://player.vimeo.com/video/126355254" width="640" height="360" frameborder="0"></iframe>
+Le TipiBot en vidéo => https://player.vimeo.com/video/126355254
 
 * Impression 3D : à voir s'il est nécessaire que je réimprime... ?
 * Hardware : Arduino UNO => MEGA 2560 ?
@@ -76,5 +76,5 @@ D'abord inspiré des travaux du Makelangelo, j'ai tendance à croire qu'il faut 
 * Auteur : Guillaume | Twitter <a href="http://twitter.com/grouan" target="_blank">@grouan</a> | Mastodon <a href="http://mamot.fr/@grouan" target="_blank">@grouan</a><br />
 * Lieu de fabrication : <a href="http://www.lafabriqueduloch.org" target="_blank">La Fabrique du Loch</a> (Auray)<br />
 * Date : 2016 (en stand by)
-* <a href="https://www.lafabriqueduloch.org/forums/topic/traceur-suspendu-drawbot/" target="_blank">Post Forum La Fabrique du Loch</a>
+* <a href="https://www.lafabriqueduloch.org/forums/topic/traceur-suspendu-drawbot/" target="_blank">Post sur le Forum La Fabrique du Loch</a>
 
