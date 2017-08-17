@@ -1,4 +1,4 @@
-# Bienvenue sur le Projet de traceur suspendu #Polargraph #DrawBot
+# Bienvenue sur le Projet de traceur suspendu<br />#Polargraph #DrawBot
 
 Le traceur suspendu est avant tout un projet artistique.
 
