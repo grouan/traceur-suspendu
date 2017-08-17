@@ -6,6 +6,7 @@ Il vise à co-créer un outil permettant d'explorer notamment l'infini richesse 
 
 Cette approche est combinée à une passion pour les robots dessinateurs (Drawbots pour "Drawing Robots"), ces machines qui réalisent automatiquement des productions visuelles. Ils sont issus d'une longue lignée de machine à dessiner, telles les spirographes ou harmonographes. Les Drawbots sont des machines à commande numérique (CNC) et peuvent être fabriqués sous de nombreuses formes, plus ou moins complexes : traceur suspendu, bras articulé, machine à 3 axes, ...
 
+## Le wiki
 Pour tout savoir sur ce projet, RDV sur [le wiki du projet](https://github.com/grouan/traceur-suspendu/wiki) :)
 
 ## Contribuez !
